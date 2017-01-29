@@ -1,0 +1,144 @@
+<mjml>
+  <mj-body>
+    <mj-container>
+
+      <mj-section padding="10px 0">
+        <mj-column>
+          <mj-image width="200" src="./assets/img/logo.png" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0 0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="32px"
+            line-height="36px" font-weight="900">
+            大受好評的「多益990五大文法攻略」線上講座再度加開場次！
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="16px" line-height="20px">
+            <p>哈囉～[username]～我是考尚樂小編</p>
+            <p>上禮拜我們針對同學反應的「<span style="color:blue">文法搞不清楚</span>」或「<span style="color:blue">題目太多做不完</span>」問題，特別設計了「<span style="color:blue;font-weight:800">多益990五大文法攻略</span>」線上講座。</p>
+            <p>講座一開始報名沒多久就馬上額滿，課程內容也大受好評，所以我們再次決定在12月加開最後兩個場次，有同樣困擾的你一定要趕快來參加喔！</p>
+          </mj-text>
+          <mj-text font-size="17px" font-weight="800" line-height="22px">
+            在這個講座你可以學到
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px" padding-bottom="10px">
+        <mj-column width="95%" vertical-align="middle" background-color="#fff8e0">
+          <mj-table color="#2e8fa1" font-size="22px" line-height="25px">
+            <tr>
+              <td width="35" style="padding-top:5px;"><img width="25" src="http://sendy.stco.tw/uploads/1480498747.png" alt=""></td>
+              <td>快速學會多益五大文法</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px" padding-bottom="10px">
+        <mj-column width="95%" vertical-align="middle" background-color="#fff8e0">
+          <mj-table color="#2e8fa1" font-size="22px" line-height="25px">
+            <tr>
+              <td width="35" style="padding-top:5px;"><img width="25" src="http://sendy.stco.tw/uploads/1480498747.png" alt=""></td>
+              <td>強化閱讀能力</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px" padding-bottom="10px">
+        <mj-column width="95%" vertical-align="middle" background-color="#fff8e0">
+          <mj-table color="#2e8fa1" font-size="22px" line-height="25px">
+            <tr>
+              <td width="35" style="padding-top:5px;"><img width="25" src="http://sendy.stco.tw/uploads/1480498747.png" alt=""></td>
+              <td>提升作答速度與精準度</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px">
+        <mj-column>
+          <mj-text font-size="16px">
+            此為線上直播講座，全台各地都看得到，直接登記報名即可喔！<br />兩個時段自由選擇
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px" vertical-align="middle" background-color="#ffffff" full-width="580px">
+        <mj-column border-radius="5px" background-color="#F2F7FF"
+                    border="10px solid #ffffff" width="50%"
+                    vertical-align="middle">
+          <mj-image width="50px" height="50px" padding="20px 20px 0" src="http://sendy.stco.tw/uploads/1480498723.png" />
+          <mj-text align="center">
+            <h2>12/15(四)</h2>
+            <p>星期四 晚上7:30</p>
+          </mj-text>
+        </mj-column>
+
+        <mj-column border-radius="5px" background-color="#F2F7FF"
+                    border="10px solid #ffffff" width="50%"
+                    vertical-align="middle">
+          <mj-image width="50px" height="50px" padding="20px 20px 0" src="http://sendy.stco.tw/uploads/1480498723.png" />
+          <mj-text align="center">
+            <h2>12/18(日)</h2>
+            <p>星期日 晚上7:30</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px">
+        <mj-column>
+          <mj-text font-size="18px" font-weight="800">
+            這個講座由誰來教
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px">
+        <mj-column width="45%">
+          <mj-image width="160" src="http://sendy.stco.tw/uploads/1480498708.png" />
+        </mj-column>
+        <mj-column width="55%">
+          <mj-text align="center">
+            <h4 style="font-size:22px;color:#2e8fa1;text-align:left;margin:10px 0;">以琳老師</h4>
+            <p style="font-size:16px;text-align:left;">
+              ★ 統測外語群英文組全國榜首<br />
+              ★ 曾任企業文化與英文簡報研究教學<br />
+              ★ TOEIC推廣單位專案講師<br />
+              ★ 各大國際會議與政府就業活動主持人<br />
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px" padding-bottom="5px">
+        <mj-column>
+          <mj-button href="https://goo.gl/Fqr688" font-size="24px" height="50px" width="100%" font-family="Helvetica" background-color="#4fc5cf" color="white">
+            前往報名
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0px">
+        <mj-column>
+          <mj-text align="center" color="#999999" padding="0">
+            華文世界最佳的模擬考試服務-讓我們幫你快樂考上
+          </mj-text>
+          <mj-button href="#" align="center" color="#cccccc" background-color="#ffffff" padding="0">取消訂閱電子報</mj-button>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
